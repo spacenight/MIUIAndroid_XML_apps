@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--This German translation is licenced under http://creativecommons.org/licenses/by-nc-nd/4.0/deed.de by "German Miui" www.german-miui.de-->
 <resources>
     <string name="antispam_marked_count">Reported by %1$d users</string>
     <string name="market_permission_risky_money">Not for free</string>

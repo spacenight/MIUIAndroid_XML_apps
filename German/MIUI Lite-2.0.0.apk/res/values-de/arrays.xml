@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--This German translation is licenced under http://creativecommons.org/licenses/by-nc-nd/4.0/deed.de by "German Miui" www.german-miui.de-->
 <resources>
     <string-array name="market_pref_values_staging_mode">
         <item>0</item>
@@ -401,32 +402,15 @@
         <item>Other permission</item>
     </string-array>
     <string-array name="prefEntries_max_bytes_limit">
-        <item>Unlimited</item>
+        <item>Unlimitiert</item>
         <item>20MB</item>
         <item>10MB</item>
         <item>5MB</item>
         <item>2MB</item>
         <item>1MB</item>
         <item>512KB</item>
-        <item>Always wait for Wi-Fi</item>
+        <item>Immer auf WLAn warten</item>
     </string-array>
-    <string-array name="prefValues_max_bytes_limit">
-        <item>2147483647</item>
-        <item>20971520</item>
-        <item>10485760</item>
-        <item>5242880</item>
-        <item>2097152</item>
-        <item>1048576</item>
-        <item>512000</item>
-        <item>0</item>
-    </string-array>
-    <array name="item_shake_animation_scaler">
-        <item>0.0dip</item>
-        <item>-4.0dip</item>
-        <item>2.0dip</item>
-        <item>-1.0dip</item>
-        <item>0.0dip</item>
-    </array>
     <string-array name="transformation_entries">
         <item>Classic</item>
         <item>Classic (No Overshoot)</item>
@@ -435,71 +419,13 @@
         <item>Page</item>
         <item>Cascading</item>
         <item>Rotation</item>
-        <item>3D Cube</item>
+        <item>3D Würfel</item>
     </string-array>
     <string-array name="wallpaper_scroll_entries">
         <item>By Theme</item>
-        <item>Center</item>
-        <item>Left</item>
-        <item>Right</item>
-    </string-array>
-    <string-array name="wallpaper_scroll_values">
-        <item>byTheme</item>
-        <item>center</item>
-        <item>left</item>
-        <item>right</item>
-    </string-array>
-    <string-array name="cell_layout_size_entries">
-        <item>4x4</item>
-        <item>4x5</item>
-        <item>5x5</item>
-        <item>5x6</item>
-        <item>6x5</item>
-        <item>6x6</item>
-    </string-array>
-    <string-array name="cell_layout_size_values">
-        <item>4x4</item>
-        <item>4x5</item>
-        <item>5x5</item>
-        <item>5x6</item>
-        <item>6x5</item>
-        <item>6x6</item>
-    </string-array>
-    <integer-array name="share_launcher_app_num_for_nickname">
-        <item>0</item>
-        <item>50</item>
-        <item>80</item>
-        <item>135</item>
-    </integer-array>
-    <string-array name="share_launcher_nickname">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-    </string-array>
-    <integer-array name="share_launcher_app_num_for_ratio">
-        <item>50</item>
-        <item>55</item>
-        <item>80</item>
-        <item>100</item>
-        <item>135</item>
-        <item>150</item>
-        <item>200</item>
-        <item>250</item>
-    </integer-array>
-    <string-array name="share_launcher_app_ratio">
-        <item>10%</item>
-        <item>20%</item>
-        <item>50%</item>
-        <item>60%</item>
-        <item>80%</item>
-        <item>90%</item>
-        <item>99%</item>
-        <item>99.9%</item>
-    </string-array>
-    <string-array name="gadget_weather_theme_type_entries">
-        <item>Default</item>
-        <item>Classic</item>
+        <item>Zentriert</item>
+        <item>Links</item>
+        <item>Rechts</item>
     </string-array>
     <string-array name="gadget_weather_image">
         <item>Clear</item>
@@ -527,118 +453,6 @@
         <item>Hail</item>
         <item>Floating Dust</item>
         <item>Haze</item>
-    </string-array>
-    <integer-array name="detailed_am_pm_segments">
-        <item>0</item>
-        <item>1</item>
-        <item>6</item>
-        <item>12</item>
-        <item>13</item>
-        <item>18</item>
-        <item>19</item>
-    </integer-array>
-    <string-array name="detailed_am_pm_names">
-        <item>AM</item>
-        <item>AM</item>
-        <item>AM</item>
-        <item>PM</item>
-        <item>PM</item>
-        <item>PM</item>
-        <item>PM</item>
-    </string-array>
-    <string-array name="preset_app_array_1">
-        <item>anzhi</item>
-        <item>snappea</item>
-        <item>hiapkmarket</item>
-        <item>guanjia</item>
-        <item>qqbrowser</item>
-        <item>sghaomatong</item>
-    </string-array>
-    <string-array name="tencentnews">
-        <item>com.miui.miuilite:string/recommended_apps_title_TencentNews</item>
-        <item>com.tencent.news</item>
-        <item>logo_tencentnews</item>
-        <item>http://misc.wcd.qq.com/app?packageName=com.tencent.news&amp;channelId=75494</item>
-    </string-array>
-    <string-array name="snappea">
-        <item>com.miui.miuilite:string/recommended_apps_title_SnapPea</item>
-        <item>com.wandoujia.phoenix2</item>
-        <item>logo_snappea</item>
-        <item>http://dl.wandoujia.com/files/phoenix/latest/wandoujia-xiaomizhuomian_hl.apk</item>
-    </string-array>
-    <string-array name="guanjia">
-        <item>com.miui.miuilite:string/recommended_apps_title_GuanJia</item>
-        <item>com.tencent.qqpimsecure</item>
-        <item>logo_guanjia</item>
-        <item>http://apkupdate.miui.com/mihome/thirdapp/Tencentmobilemanager.apk</item>
-    </string-array>
-    <string-array name="hiapkmarket">
-        <item>com.miui.miuilite:string/recommended_apps_title_HiApkMarket</item>
-        <item>com.hiapk.marketpho</item>
-        <item>logo_hiapkmarket</item>
-        <item>http://apkupdate.miui.com/mihome/thirdapp/HiApkMarket.apk</item>
-    </string-array>
-    <string-array name="anzhi">
-        <item>com.miui.miuilite:string/recommended_apps_title_AnZhi</item>
-        <item>cn.goapk.market</item>
-        <item>logo_anzhi</item>
-        <item>http://apkupdate.miui.com/mihome/thirdapp/Anzhi.apk</item>
-    </string-array>
-    <string-array name="qqbrowser">
-        <item>com.miui.miuilite:string/recommended_apps_title_QQBrowser</item>
-        <item>com.tencent.mtt</item>
-        <item>logo_qqbrowser</item>
-        <item>http://apkupdate.miui.com/mihome/thirdapp/QQBrowser.apk</item>
-    </string-array>
-    <string-array name="sghaomatong">
-        <item>com.miui.miuilite:string/recommended_apps_title_SgHaoMaTong</item>
-        <item>com.sg.sledog</item>
-        <item>logo_sghaomatong</item>
-        <item>http://apkupdate.miui.com/mihome/thirdapp/SgHaoMatong.apk</item>
-    </string-array>
-    <string-array name="shoujizhushou">
-        <item>com.miui.miuilite:string/recommended_apps_title_ShouJiZhuShou</item>
-        <item>com.ijinshan.ShouJiKong.AndroidDaemon</item>
-        <item>logo_shoujizhushou</item>
-        <item>http://apkupdate.miui.com/mihome/thirdapp/shoujizhushou.apk</item>
-    </string-array>
-    <string-array name="duokanfiction">
-        <item>com.miui.miuilite:string/recommended_apps_title_DuoKanFiction</item>
-        <item>com.duokan.fiction</item>
-        <item>logo_fiction</item>
-        <item>http://apkupdate.miui.com/mihome/thirdapp/DuoKanFiction.apk</item>
-    </string-array>
-    <string-array name="mishop">
-        <item>com.miui.miuilite:string/recommended_apps_title_MiShop</item>
-        <item>com.xiaomi.shop</item>
-        <item>logo_mishop</item>
-        <item>http://app.shopapi.xiaomi.com/v2/apkversion/geturl?client_id=180100031013</item>
-    </string-array>
-    <string-array name="misupermarket">
-        <item>com.miui.miuilite:string/recommended_apps_title_SuperMarket</item>
-        <item>com.xiaomi.market</item>
-        <item>logo_supermarket</item>
-        <item>http://apkupdate.miui.com/mihome/thirdapp/SuperMarket.apk</item>
-    </string-array>
-    <string-array name="migamecenter">
-        <item>com.miui.miuilite:string/recommended_apps_title_GameCenter</item>
-        <item>com.xiaomi.gamecenter.standalone</item>
-        <item>logo_gamecenter</item>
-        <item>http://apkupdate.miui.com/mihome/thirdapp/gamecenter.apk</item>
-    </string-array>
-    <string-array name="send_item">
-        <item>SMS</item>
-        <item>Email</item>
-    </string-array>
-    <string-array name="act_weather_main_listview_json_key">
-        <item>wind1</item>
-        <item>紫外线指数</item>
-        <item>穿衣指数</item>
-        <item>舒适度指数</item>
-        <item>洗车指数</item>
-        <item>晾晒指数</item>
-        <item>晨练指数</item>
-        <item>旅游指数</item>
     </string-array>
     <string-array name="act_weather_main_listview_key">
         <item>Wind speed:　　</item>
