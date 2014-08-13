@@ -399,7 +399,7 @@
         <item>Monitor, record, and process phone calls.</item>
         <item>Access the SD card.</item>
         <item>Lower-level access and control of the system.</item>
-        <item>Other permission</item>
+        <item>Andere Berechtigungen</item>
     </string-array>
     <string-array name="prefEntries_max_bytes_limit">
         <item>Unlimitiert</item>
@@ -409,92 +409,92 @@
         <item>2MB</item>
         <item>1MB</item>
         <item>512KB</item>
-        <item>Immer auf WLAn warten</item>
+        <item>Immer auf Wi-Fi warten</item>
     </string-array>
     <string-array name="transformation_entries">
-        <item>Classic</item>
-        <item>Classic (No Overshoot)</item>
-        <item>Crossfade</item>
-        <item>Tumbling</item>
-        <item>Page</item>
-        <item>Cascading</item>
-        <item>Rotation</item>
+        <item>Klassik</item>
+        <item>Klassik (ohne Überschwingen)</item>
+        <item>Überblenden</item>
+        <item>Umfallen</item>
+        <item>Seite</item>
+        <item>Kaskade</item>
+        <item>Drehen</item>
         <item>3D Würfel</item>
     </string-array>
     <string-array name="wallpaper_scroll_entries">
-        <item>By Theme</item>
+        <item>nach Theme</item>
         <item>Zentriert</item>
         <item>Links</item>
         <item>Rechts</item>
     </string-array>
     <string-array name="gadget_weather_image">
-        <item>Clear</item>
-        <item>Cloudy</item>
-        <item>Hazy</item>
-        <item>Foggy</item>
-        <item>Severe rainstorm</item>
-        <item>Rainstorm</item>
-        <item>Very heavy rainfall</item>
-        <item>Thunderstorm</item>
-        <item>Shower</item>
-        <item>Heavy rainfall</item>
-        <item>Rain</item>
-        <item>Drizzle</item>
-        <item>Sleet</item>
-        <item>Snowstorm</item>
-        <item>Patches of snowfall</item>
-        <item>Heavy snowfall</item>
-        <item>Snowfall</item>
-        <item>Light snowfall</item>
-        <item>Strong sandstorm</item>
+        <item>Klar</item>
+        <item>Bewölkt</item>
+        <item>Dunstig</item>
+        <item>Neblig</item>
+        <item>Schwerer Regensturm</item>
+        <item>Regensturm</item>
+        <item>Sehr starke Regenfälle</item>
+        <item>Gewitter</item>
+        <item>Schauer</item>
+        <item>Schwere Regenfälle</item>
+        <item>Regen</item>
+        <item>Nieselregen</item>
+        <item>Schneeregen</item>
+        <item>Schneesturm</item>
+        <item>Vereinzelt Schneefall</item>
+        <item>Heftige Schneefälle</item>
+        <item>Schneefall</item>
+        <item>Leichter Schneefall</item>
+        <item>Starker Sandsturm</item>
+        <item>Sandsturm</item>
+        <item>Leichter Sandsturm</item>
         <item>Sandstorm</item>
-        <item>Light sandstorm</item>
-        <item>Sandstorm</item>
-        <item>Hail</item>
-        <item>Floating Dust</item>
-        <item>Haze</item>
+        <item>Hagel</item>
+        <item>Smog</item>
+        <item>Nebel</item>
     </string-array>
     <string-array name="act_weather_main_listview_key">
-        <item>Wind speed:　　</item>
-        <item>UV index:　</item>
-        <item>Clothing index:</item>
-        <item>Comfort index:</item>
-        <item>Car wash index:</item>
-        <item>Drying index:</item>
-        <item>Morning excerise index:</item>
-        <item>Leisure index:</item>
+        <item>Wind Geschwindigkeit:　　</item>
+        <item>UV Index:　</item>
+        <item>Kleider Index:</item>
+        <item>Komfort Index:</item>
+        <item>Autowäsche Index:</item>
+        <item>Trocken Index:</item>
+        <item>Morgensport Index:</item>
+        <item>Freizeit Index:</item>
     </string-array>
     <string-array name="weather_image">
-        <item>Clear</item>
-        <item>Cloudy</item>
-        <item>Hazy</item>
-        <item>Foggy</item>
-        <item>Severe rainstorm</item>
-        <item>Rainstorm</item>
-        <item>Very heavy rainfall</item>
-        <item>Thunderstorm</item>
-        <item>Shower</item>
-        <item>Heavy rainfall</item>
-        <item>Rain</item>
-        <item>Drizzle</item>
-        <item>Sleet</item>
-        <item>Snowstorm</item>
-        <item>Patches of snowfall</item>
-        <item>Heavy snowfall</item>
-        <item>Snowfall</item>
-        <item>Light snowfall</item>
-        <item>Strong sandstorm</item>
+        <item>Klar</item>
+        <item>Bewölkt</item>
+        <item>Dunstig</item>
+        <item>Neblig</item>
+        <item>Schwerer Regensturm</item>
+        <item>Regensturm</item>
+        <item>Sehr starke Regenfälle</item>
+        <item>Gewitter</item>
+        <item>Schauer</item>
+        <item>Schwere Regenfälle</item>
+        <item>Regen</item>
+        <item>Nieselregen</item>
+        <item>Schneeregen</item>
+        <item>Schneesturm</item>
+        <item>Vereinzelt Schneefall</item>
+        <item>Heftige Schneefälle</item>
+        <item>Schneefall</item>
+        <item>Leichter Schneefall</item>
+        <item>Starker Sandsturm</item>
+        <item>Sandsturm</item>
+        <item>Leichter Sandsturm</item>
         <item>Sandstorm</item>
-        <item>Light sandstorm</item>
-        <item>Sandstorm</item>
-        <item>Hail</item>
-        <item>Floating Dust</item>
-        <item>Haze</item>
+        <item>Hagel</item>
+        <item>Smog</item>
+        <item>Nebel</item>
     </string-array>
     <string-array name="weather_details_key">
-        <item>Temporarily unavaliable</item>
-        <item>Suitable</item>
-        <item>Good</item>
+        <item>Vorübergehend nicht verfügbar</item>
+        <item>Geeignet</item>
+        <item>Gut</item>
         <item>Avoid if possible</item>
         <item>Not recommended</item>
         <item>Very suitable conditions</item>
@@ -758,27 +758,27 @@
         <item>:-I</item>
     </string-array>
     <string-array name="default_smiley_names">
-        <item>Happy</item>
-        <item>Sad</item>
-        <item>Winking</item>
-        <item>Tongue sticking out</item>
-        <item>Surprised</item>
-        <item>Kissing</item>
-        <item>Yelling</item>
+        <item>Fröhlich</item>
+        <item>Traurig</item>
+        <item>Zwinkern</item>
+        <item>Zunge herausstrecken</item>
+        <item>Überrascht</item>
+        <item>Küssen</item>
+        <item>Schreien</item>
         <item>Cool</item>
-        <item>Money mouth</item>
-        <item>Foot in mouth</item>
-        <item>Embarrassed</item>
-        <item>Angel</item>
-        <item>Undecided</item>
-        <item>Crying</item>
-        <item>Lips are sealed</item>
-        <item>Laughing</item>
-        <item>Confused</item>
-        <item>Heart</item>
-        <item>Mad</item>
-        <item>Smirk</item>
-        <item>Poker face</item>
+        <item>Taten sprechen lassen</item>
+        <item>Ins Fettnäfchen Tretten</item>
+        <item>Verlegen</item>
+        <item>Engel</item>
+        <item>Unentschlossen</item>
+        <item>Weinen</item>
+        <item>Meine Lippen sind versiegelt</item>
+        <item>Lachen</item>
+        <item>Verwirrt/item>
+        <item>Herz</item>
+        <item>Verrückt</item>
+        <item>Suffisantes Grinsen</item>
+        <item>Pokerface</item>
     </string-array>
     <string-array name="prefEntries_ringtone_repeat">
         <item>1x</item>
@@ -797,15 +797,15 @@
     <string-array name="contact_entries">
         <item>Name</item>
         <item>Nickname</item>
-        <item>Phone</item>
+        <item>Telefon</item>
         <item>E-mail</item>
-        <item>Organization</item>
+        <item>Firma</item>
         <item>IM</item>
-        <item>SIP Phone</item>
-        <item>Birthday</item>
+        <item>VOIP Anruf</item>
+        <item>Geburtstag</item>
         <item>Website</item>
-        <item>Address</item>
-        <item>Note</item>
+        <item>Adresse</item>
+        <item>Notiz</item>
     </string-array>
     <string-array name="contact_values">
         <item>vnd.android.cursor.item/name</item>
@@ -825,39 +825,39 @@
         <item>Time sent</item>
     </string-array>
     <string-array name="resent_via_entries_sms">
-        <item>Via message</item>
-        <item>Via Cloud message</item>
+        <item>Via Nachricht</item>
+        <item>Via Cloud Nachricht</item>
     </string-array>
     <string-array name="resent_via_entries_mms">
-        <item>Via message</item>
-        <item>Via Cloud message</item>
+        <item>Via Nachricht</item>
+        <item>Via Cloud Nachricht</item>
     </string-array>
     <string-array name="entryvalues_date_type">
         <item>0</item>
         <item>1</item>
     </string-array>
     <string-array name="select_dialog_items">
-        <item>1 second</item>
-        <item>2 seconds</item>
-        <item>3 seconds</item>
-        <item>4 seconds</item>
-        <item>5 seconds</item>
-        <item>6 seconds</item>
-        <item>7 seconds</item>
-        <item>8 seconds</item>
-        <item>9 seconds</item>
-        <item>10 seconds</item>
-        <item>Other</item>
+        <item>1 Sekunde</item>
+        <item>2 Sekunden</item>
+        <item>3 Sekunden</item>
+        <item>4 Sekunden</item>
+        <item>5 Sekunden</item>
+        <item>6 Sekunden</item>
+        <item>7 Sekunden</item>
+        <item>8 Sekunden</item>
+        <item>9 Sekunden</item>
+        <item>10 Sekunden</item>
+        <item>Anderes</item>
     </string-array>
     <string-array name="prefEntries_vibrateWhen">
-        <item>Always</item>
-        <item>Only when silent</item>
-        <item>Never</item>
+        <item>Immer</item>
+        <item>Nur wenn Lautlos</item>
+        <item>Niemals</item>
     </string-array>
     <string-array name="prefValues_vibrateWhen">
-        <item>always</item>
-        <item>silent</item>
-        <item>never</item>
+        <item>immer</item>
+        <item>lautlos</item>
+        <item>niemals</item>
     </string-array>
     <string-array name="preference_dial_pad_touch_tone_entry_values">
         <item>-1</item>
@@ -964,7 +964,7 @@
     <string-array name="supported_locale">
         <item>zh_CN</item>
         <item>zh_TW</item>
-        <item>en_US</item>
+		<item>en_US</item>
         <item>de_DE</item>
     </string-array>
     <string-array name="screen_key_long_press_default_action">
@@ -973,7 +973,7 @@
         <item>none</item>
     </string-array>
     <string-array name="alarm_in_future">
-        <item>Alarm in less than a minute</item>
+        <item>Alarm in weniger als 1 Minute</item>
         <item>Alarm in %1$s</item>
         <item>Alarm in %2$s</item>
         <item>Alarm in %1$s %2$s</item>
